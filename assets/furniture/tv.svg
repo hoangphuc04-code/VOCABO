@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90" style="shape-rendering:geometricPrecision">
+  <!-- TV outer frame -->
+  <rect x="0" y="0" width="120" height="72" rx="8" fill="#2C2C2C" stroke="#1A1A1A" stroke-width="2.5"/>
+  <!-- Screen area -->
+  <rect x="5" y="5" width="110" height="62" rx="5" fill="#1A1A1A" stroke="#111" stroke-width="1.5"/>
+  <!-- Screen content - blue gradient -->
+  <rect x="7" y="7" width="106" height="58" rx="4" fill="#1565C0"/>
+  <!-- Screen gradient overlay -->
+  <rect x="7" y="7" width="106" height="28" rx="4" fill="#1976D2" opacity="0.5"/>
+  <!-- Screen reflection (Adorable Home style - white diagonal) -->
+  <path d="M10 10 L35 10 L20 35 L10 35 Z" fill="white" opacity="0.07" rx="2"/>
+  <!-- TV show content (simple illustration) -->
+  <!-- Mountain silhouette -->
+  <path d="M20 55 L45 25 L70 55 Z" fill="#0D47A1" opacity="0.6"/>
+  <path d="M50 55 L75 30 L100 55 Z" fill="#0D47A1" opacity="0.4"/>
+  <!-- Sun -->
+  <circle cx="90" cy="20" r="10" fill="#FFD700" opacity="0.7"/>
+  <!-- Sky lines -->
+  <line x1="10" y1="18" x2="75" y2="18" stroke="white" stroke-width="1" opacity="0.15"/>
+  <line x1="10" y1="24" x2="60" y2="24" stroke="white" stroke-width="1" opacity="0.1"/>
+  <!-- Bottom bezel with logo dot -->
+  <circle cx="60" cy="68" r="3" fill="#444"/>
+  <circle cx="110" cy="68" r="2.5" fill="#00E676"/>
+  <!-- Stand neck -->
+  <rect x="52" y="72" width="16" height="10" rx="3" fill="#3C3C3C" stroke="#1A1A1A" stroke-width="1.5"/>
+  <!-- Stand base -->
+  <rect x="30" y="80" width="60" height="9" rx="5" fill="#3C3C3C" stroke="#1A1A1A" stroke-width="2"/>
+  <!-- Base highlight -->
+  <rect x="34" y="81" width="52" height="3" rx="2" fill="#555" opacity="0.5"/>
+</svg>

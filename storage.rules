@@ -1,0 +1,20 @@
+rules_version = '2';
+service firebase.storage {
+  match /b/{bucket}/o {
+
+    // Avatar: chỉ chủ sở hữu mới được đọc/ghi, file tối đa 5MB, chỉ ảnh
+    match /avatars/{uid}.jpg {
+      allow read:  if request.auth != null;
+      allow write: if request.auth != null
+                   && request.auth.uid == uid
+                   && request.resource.size < 5 * 1024 * 1024
+                   && request.resource.contentType.matches('image/.*');
+    }
+
+    // Cho phép đọc public các file khác (nếu cần)
+    match /{allPaths=**} {
+      allow read:  if request.auth != null;
+      allow write: if false;
+    }
+  }
+}

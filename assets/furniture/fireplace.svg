@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 100" style="shape-rendering:geometricPrecision">
+  <!-- Stone wall background -->
+  <rect x="0" y="0" width="110" height="100" rx="4" fill="#B0A090" stroke="#7A6A5A" stroke-width="2"/>
+  <!-- Stone bricks pattern -->
+  <rect x="4" y="4" width="48" height="18" rx="2" fill="#C0B0A0" stroke="#7A6A5A" stroke-width="1.5"/>
+  <rect x="56" y="4" width="50" height="18" rx="2" fill="#B8A898" stroke="#7A6A5A" stroke-width="1.5"/>
+  <rect x="4" y="24" width="32" height="18" rx="2" fill="#B8A898" stroke="#7A6A5A" stroke-width="1.5"/>
+  <rect x="38" y="24" width="36" height="18" rx="2" fill="#C0B0A0" stroke="#7A6A5A" stroke-width="1.5"/>
+  <rect x="76" y="24" width="30" height="18" rx="2" fill="#B0A090" stroke="#7A6A5A" stroke-width="1.5"/>
+  <rect x="4" y="44" width="44" height="18" rx="2" fill="#C0B0A0" stroke="#7A6A5A" stroke-width="1.5"/>
+  <rect x="50" y="44" width="56" height="18" rx="2" fill="#B8A898" stroke="#7A6A5A" stroke-width="1.5"/>
+  <!-- Fireplace opening -->
+  <rect x="20" y="55" width="70" height="42" rx="4" fill="#1A1A1A" stroke="#7A6A5A" stroke-width="2"/>
+  <!-- Fire glow -->
+  <ellipse cx="55" cy="90" rx="28" ry="8" fill="#FF6F00" opacity="0.4"/>
+  <!-- Logs -->
+  <ellipse cx="40" cy="92" rx="14" ry="5" fill="#5D3A1A" stroke="#3D2010" stroke-width="1.5"/>
+  <ellipse cx="70" cy="92" rx="14" ry="5" fill="#5D3A1A" stroke="#3D2010" stroke-width="1.5"/>
+  <!-- Flames -->
+  <path d="M45 88 Q48 72 55 68 Q62 72 65 88 Q60 80 55 82 Q50 80 45 88Z" fill="#FF6F00"/>
+  <path d="M48 88 Q51 76 55 73 Q59 76 62 88 Q58 82 55 84 Q52 82 48 88Z" fill="#FFA726"/>
+  <path d="M51 88 Q53 80 55 78 Q57 80 59 88 Q57 84 55 85 Q53 84 51 88Z" fill="#FFCC02"/>
+  <!-- Mantle shelf -->
+  <rect x="14" y="52" width="82" height="8" rx="3" fill="#8D6E63" stroke="#5D3A1A" stroke-width="2"/>
+  <!-- Items on mantle -->
+  <!-- Vase -->
+  <path d="M28 44 Q24 48 24 52 L32 52 Q32 48 28 44Z" fill="#8D6E63" stroke="#5D3A1A" stroke-width="1.5"/>
+  <ellipse cx="28" cy="44" rx="5" ry="3" fill="#A07860" stroke="#5D3A1A" stroke-width="1"/>
+  <!-- Candle -->
+  <rect x="50" y="44" width="6" height="10" rx="1" fill="#F5F5DC" stroke="#C8B89A" stroke-width="1"/>
+  <path d="M53 44 Q53 40 53 38" stroke="#FF6F00" stroke-width="1.5" fill="none"/>
+  <circle cx="53" cy="38" r="2" fill="#FFD700"/>
+  <!-- Clock -->
+  <circle cx="80" cy="46" r="7" fill="#F5F0E8" stroke="#8D6E63" stroke-width="2"/>
+  <circle cx="80" cy="46" r="5" fill="white" stroke="#C8B89A" stroke-width="1"/>
+  <line x1="80" y1="46" x2="80" y2="42" stroke="#333" stroke-width="1.5"/>
+  <line x1="80" y1="46" x2="83" y2="46" stroke="#333" stroke-width="1.5"/>
+</svg>

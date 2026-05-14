@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 100">
+  <!-- Base -->
+  <ellipse cx="25" cy="95" rx="18" ry="5" fill="#8D6E63" stroke="#6D4C41" stroke-width="1.5"/>
+  <!-- Pole -->
+  <rect x="22" y="45" width="6" height="52" rx="3" fill="#A1887F" stroke="#8D6E63" stroke-width="1"/>
+  <!-- Pole highlight -->
+  <rect x="23" y="47" width="2" height="48" rx="1" fill="#BCAAA4" opacity="0.4"/>
+  <!-- Shade -->
+  <path d="M5 45 L15 10 L35 10 L45 45 Z" fill="#FFF9C4" stroke="#F9A825" stroke-width="1.5"/>
+  <!-- Shade inner shadow -->
+  <path d="M8 45 L17 14 L33 14 L42 45 Z" fill="#FFF176" opacity="0.5"/>
+  <!-- Light glow -->
+  <ellipse cx="25" cy="45" rx="20" ry="6" fill="#FFD54F" opacity="0.3"/>
+  <!-- Bulb -->
+  <circle cx="25" cy="12" r="5" fill="#FFD54F" stroke="#F9A825" stroke-width="1"/>
+  <circle cx="25" cy="12" r="3" fill="#FFEE58" opacity="0.8"/>
+  <!-- Shade top ring -->
+  <ellipse cx="25" cy="10" rx="10" ry="3" fill="none" stroke="#F9A825" stroke-width="1.5"/>
+  <!-- Shade bottom ring -->
+  <ellipse cx="25" cy="45" rx="20" ry="4" fill="none" stroke="#F9A825" stroke-width="1.5"/>
+</svg>

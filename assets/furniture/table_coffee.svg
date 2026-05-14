@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 75" style="shape-rendering:geometricPrecision">
+  <!-- Round table top (Adorable Home style - round coffee table) -->
+  <ellipse cx="55" cy="28" rx="50" ry="22" fill="#C8A870" stroke="#8B6914" stroke-width="2.5"/>
+  <!-- Table top surface -->
+  <ellipse cx="55" cy="26" rx="46" ry="19" fill="#D4B880" stroke="#8B6914" stroke-width="1.5"/>
+  <!-- Wood grain lines -->
+  <ellipse cx="55" cy="26" rx="30" ry="12" fill="none" stroke="#C0A060" stroke-width="1" opacity="0.4"/>
+  <ellipse cx="55" cy="26" rx="15" ry="6" fill="none" stroke="#C0A060" stroke-width="1" opacity="0.3"/>
+  <!-- Items on table -->
+  <!-- Small plant -->
+  <rect x="46" y="14" width="10" height="8" rx="3" fill="#8D6E63" stroke="#6D4C41" stroke-width="1.5"/>
+  <ellipse cx="51" cy="12" rx="8" ry="9" fill="#66BB6A" stroke="#388E3C" stroke-width="1.5"/>
+  <ellipse cx="47" cy="10" rx="5" ry="7" fill="#81C784" stroke="#388E3C" stroke-width="1"/>
+  <!-- Book/magazine -->
+  <rect x="58" y="18" width="20" height="14" rx="2" fill="#F5F5F5" stroke="#9E9E9E" stroke-width="1.5"/>
+  <line x1="60" y1="22" x2="76" y2="22" stroke="#BDBDBD" stroke-width="1"/>
+  <line x1="60" y1="26" x2="76" y2="26" stroke="#BDBDBD" stroke-width="1"/>
+  <!-- Table legs (4 legs visible) -->
+  <rect x="20" y="46" width="8" height="26" rx="4" fill="#A07840" stroke="#8B6914" stroke-width="2"/>
+  <rect x="82" y="46" width="8" height="26" rx="4" fill="#A07840" stroke="#8B6914" stroke-width="2"/>
+  <rect x="36" y="44" width="7" height="24" rx="3.5" fill="#A07840" stroke="#8B6914" stroke-width="1.5"/>
+  <rect x="67" y="44" width="7" height="24" rx="3.5" fill="#A07840" stroke="#8B6914" stroke-width="1.5"/>
+  <!-- Green rug under table -->
+  <ellipse cx="55" cy="72" rx="48" ry="8" fill="#8BC34A" stroke="#558B2F" stroke-width="1.5" opacity="0.7"/>
+  <ellipse cx="55" cy="72" rx="38" ry="5" fill="#9CCC65" opacity="0.5"/>
+</svg>

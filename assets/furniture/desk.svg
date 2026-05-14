@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 90">
+  <!-- Desk surface -->
+  <rect x="0" y="18" width="120" height="14" rx="4" fill="#C8B89A" stroke="#A89070" stroke-width="1.5"/>
+  <!-- Surface top highlight -->
+  <rect x="2" y="19" width="116" height="5" rx="3" fill="#D4C4A8" opacity="0.7"/>
+  <!-- Left drawer unit -->
+  <rect x="0" y="32" width="38" height="55" rx="4" fill="#A89070" stroke="#8B7355" stroke-width="1.5"/>
+  <!-- Drawer 1 -->
+  <rect x="4" y="36" width="30" height="14" rx="3" fill="#B8A080" stroke="#8B7355" stroke-width="1"/>
+  <circle cx="19" cy="43" r="3" fill="#C8A870"/>
+  <!-- Drawer 2 -->
+  <rect x="4" y="54" width="30" height="14" rx="3" fill="#B8A080" stroke="#8B7355" stroke-width="1"/>
+  <circle cx="19" cy="61" r="3" fill="#C8A870"/>
+  <!-- Drawer 3 -->
+  <rect x="4" y="72" width="30" height="12" rx="3" fill="#B8A080" stroke="#8B7355" stroke-width="1"/>
+  <circle cx="19" cy="78" r="3" fill="#C8A870"/>
+  <!-- Right leg -->
+  <rect x="108" y="32" width="12" height="55" rx="4" fill="#A89070" stroke="#8B7355" stroke-width="1.5"/>
+  <!-- Items on desk -->
+  <!-- Monitor -->
+  <rect x="44" y="0" width="46" height="20" rx="3" fill="#2C3E50" stroke="#1A252F" stroke-width="1.5"/>
+  <rect x="47" y="2" width="40" height="16" rx="2" fill="#1565C0" opacity="0.8"/>
+  <rect x="62" y="20" width="6" height="4" rx="1" fill="#37474F"/>
+  <!-- Book stack -->
+  <rect x="96" y="8" width="20" height="12" rx="2" fill="#E53935"/>
+  <rect x="96" y="6" width="20" height="4" rx="2" fill="#EF5350"/>
+  <rect x="97" y="4" width="18" height="4" rx="2" fill="#1E88E5"/>
+  <!-- Coffee mug -->
+  <rect x="44" y="10" width="12" height="10" rx="3" fill="#F5F5F5" stroke="#E0E0E0" stroke-width="1"/>
+  <path d="M56 13 Q62 13 62 18 Q62 23 56 23" fill="none" stroke="#E0E0E0" stroke-width="1.5"/>
+  <!-- Plant -->
+  <rect x="100" y="14" width="8" height="6" rx="2" fill="#8D6E63"/>
+  <ellipse cx="104" cy="12" rx="6" ry="8" fill="#66BB6A"/>
+  <ellipse cx="100" cy="10" rx="4" ry="6" fill="#81C784"/>
+</svg>

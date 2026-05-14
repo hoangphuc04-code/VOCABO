@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 80" style="shape-rendering:geometricPrecision">
+  <!-- Rug base (oval, Adorable Home style) -->
+  <ellipse cx="80" cy="40" rx="78" ry="38" fill="#8BC34A" stroke="#558B2F" stroke-width="2.5"/>
+  <!-- Inner oval -->
+  <ellipse cx="80" cy="40" rx="66" ry="30" fill="#9CCC65" stroke="#558B2F" stroke-width="1.5"/>
+  <!-- Pattern rings -->
+  <ellipse cx="80" cy="40" rx="52" ry="22" fill="none" stroke="#7CB342" stroke-width="2"/>
+  <ellipse cx="80" cy="40" rx="38" ry="16" fill="none" stroke="#558B2F" stroke-width="1.5"/>
+  <ellipse cx="80" cy="40" rx="24" ry="10" fill="#7CB342" stroke="#558B2F" stroke-width="1.5"/>
+  <!-- Center dot -->
+  <ellipse cx="80" cy="40" rx="8" ry="4" fill="#558B2F"/>
+  <!-- Fringe left -->
+  <line x1="2" y1="35" x2="0" y2="28" stroke="#558B2F" stroke-width="1.5"/>
+  <line x1="4" y1="40" x2="1" y2="33" stroke="#558B2F" stroke-width="1.5"/>
+  <line x1="2" y1="45" x2="0" y2="52" stroke="#558B2F" stroke-width="1.5"/>
+  <!-- Fringe right -->
+  <line x1="158" y1="35" x2="160" y2="28" stroke="#558B2F" stroke-width="1.5"/>
+  <line x1="156" y1="40" x2="159" y2="33" stroke="#558B2F" stroke-width="1.5"/>
+  <line x1="158" y1="45" x2="160" y2="52" stroke="#558B2F" stroke-width="1.5"/>
+</svg>

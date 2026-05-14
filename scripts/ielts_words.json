@@ -1,0 +1,2572 @@
+[
+  {
+    "word": "analyse",
+    "phonetic": "",
+    "meaning": "phân tích",
+    "definition_en": "To subject to analysis.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "approach",
+    "phonetic": "/əˈpɹəʊt͡ʃ/",
+    "meaning": "tiếp cận",
+    "definition_en": "The act of drawing near; a coming or advancing near.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "area",
+    "phonetic": "/ˈɛə̯ɹɪə̯/",
+    "meaning": "diện tích, bể mặt",
+    "definition_en": "A measure of the extent of a surface; it is measured in square units.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "assess",
+    "phonetic": "/əˈsɛs/",
+    "meaning": "đánh giá",
+    "definition_en": "To determine, estimate or judge the value of; to evaluate",
+    "example": "He assessed the situation.",
+    "example_vi": "Ông đánh giá tình hình.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "assume",
+    "phonetic": "/əˈsuːm/",
+    "meaning": "mang, khoác",
+    "definition_en": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+    "example": "We assume that, as her parents were dentists, she knows quite a bit about dentistry.",
+    "example_vi": "Chúng tôi cho rằng, vì cha mẹ em là nha sĩ, em biết khá nhiều về nha khoa.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "authority",
+    "phonetic": "/ɔːˈθɒɹəti/",
+    "meaning": "uy quyển, quyển lực",
+    "definition_en": "The power to enforce rules or give orders.",
+    "example": "I have the authority to penalise the staff in my department, but not the authority to sack them.",
+    "example_vi": "Tôi có thẩm quyền xử phạt các nhân viên trong bộ phận của mình, nhưng không có thẩm quyền sa thải họ.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "available",
+    "phonetic": "/əˈveɪləb(ə)l/",
+    "meaning": "Còn trống",
+    "definition_en": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+    "example": "We have an available candidate.",
+    "example_vi": "Chúng tôi có một ứng cử viên có sẵn.",
+    "part_of_speech": "adjective",
+    "category": "IELTS"
+  },
+  {
+    "word": "benefit",
+    "phonetic": "/ˈbɛn.ɪ.fɪt/",
+    "meaning": "lợi ích, lãi",
+    "definition_en": "An advantage; help or aid from something.",
+    "example": "It was for her benefit.   His benefit was free beer.",
+    "example_vi": "Đó là vì lợi ích của cô ấy. Lợi ích của anh ấy là được uống bia miễn phí.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "concept",
+    "phonetic": "/ˈkɒn.sɛpt/",
+    "meaning": "Khái niệm",
+    "definition_en": "An abstract and general idea; an abstraction.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "consist",
+    "phonetic": "/kənˈsɪst/",
+    "meaning": "bao gồm",
+    "definition_en": "To be.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "context",
+    "phonetic": "/ˈkɒntɛkst/",
+    "meaning": "bối cảnh",
+    "definition_en": "The surroundings, circumstances, environment, background or settings that determine, specify, or clarify the meaning of an event or other occurrence.",
+    "example": "In what context did your attack on him happen? - We had a pretty tense relationship at the time, and when he insulted me I snapped.",
+    "example_vi": "Cuộc tấn công của bạn vào anh ta đã xảy ra trong bối cảnh nào? - Chúng tôi đã có một mối quan hệ khá căng thẳng vào thời điểm đó, và khi anh ấy xúc phạm tôi, tôi đã cáu kỉnh.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "contract",
+    "phonetic": "/ˈkɒntɹækt/",
+    "meaning": "hợp đồng",
+    "definition_en": "An agreement between two or more parties, to perform a specific job or work order, often temporary or of fixed duration and usually governed by a written agreement.",
+    "example": "Marriage is a contract.",
+    "example_vi": "Hôn nhân là một hợp đồng.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "create",
+    "phonetic": "/kɹiːˈeɪt/",
+    "meaning": "hãy tạo ra",
+    "definition_en": "To bring into existence; (sometimes in particular:)",
+    "example": "You can create the color orange by mixing yellow and red.",
+    "example_vi": "Bạn có thể tạo màu cam bằng cách trộn màu vàng và đỏ.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "data",
+    "phonetic": "/ˈdaetə/",
+    "meaning": "dữ liệu",
+    "definition_en": "(plural: data) A measurement of something on a scale understood by both the recorder (a person or device) and the reader (another person or device). The scale is arbitrarily defined, such as from 1 to 10 by ones, 1 to 100 by 0.1, or simply true or false, on or off, yes, no, or maybe, etc.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "define",
+    "phonetic": "/dɪˈfaɪn/",
+    "meaning": "định nghĩa",
+    "definition_en": "A kind of macro in source code that replaces one text string with another wherever it occurs.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "derive",
+    "phonetic": "/dəˈɹaɪv/",
+    "meaning": "xuất phát, bắt nguồn",
+    "definition_en": "To obtain or receive (something) from something else.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "distribute",
+    "phonetic": "/dɨˈstɹɪbjuːt/",
+    "meaning": "phân bổ, phân phối, sắp xếp, phân loại",
+    "definition_en": "To divide into portions and dispense.",
+    "example": "He distributed the bread amongst his followers.",
+    "example_vi": "Ngài phân phát bánh mì cho những người theo Ngài.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "economy",
+    "phonetic": "/iːˈkɒn.ə.mi/",
+    "meaning": "tiết kiệm, quản lý kinh tế",
+    "definition_en": "Effective management of a community or system, or especially its resources.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "environment",
+    "phonetic": "/-mɪnt/",
+    "meaning": "môi trường, hoàn cảnh xung quanh",
+    "definition_en": "The surroundings of, and influences on, a particular item of interest.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "establish",
+    "phonetic": "/ɪˈstæb.lɪʃ/",
+    "meaning": "thành lập",
+    "definition_en": "To make stable or firm; to confirm.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "estimate",
+    "phonetic": "/ˈɛstɨmɨt/",
+    "meaning": "ước lượng",
+    "definition_en": "A rough calculation or assessment of the value, size, or cost of something.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "evidence",
+    "phonetic": "[ˈɛvəɾəns]",
+    "meaning": "điều hiến nhiên, điều rõ ràng",
+    "definition_en": "Facts or observations presented in support of an assertion.",
+    "example": "There is no evidence that anyone was here earlier.",
+    "example_vi": "Không có bằng chứng nào cho thấy có người đã đến đây trước đó.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "export",
+    "phonetic": "/ˈɛks.pɔːt/",
+    "meaning": "xuất",
+    "definition_en": "Something that is exported",
+    "example": "Oil is the main export of Saudi Arabia.",
+    "example_vi": "Dầu mỏ là mặt hàng xuất khẩu chính của Ả Rập Xê Út.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "factor",
+    "phonetic": "/ˈfæktə/",
+    "meaning": "nhân tố",
+    "definition_en": "A doer, maker; a person who does things for another person or organization.",
+    "example": "The factor of the trading post bought the furs.",
+    "example_vi": "Yếu tố của bài đăng giao dịch đã mua lông thú.",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "finance",
+    "phonetic": "/faɪˈnæns/",
+    "meaning": "tài chính; tài trợ, cấp vốn",
+    "definition_en": "The management of money and other assets.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "formula",
+    "phonetic": "",
+    "meaning": "công thức, thế thức, cách thức",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "function",
+    "phonetic": "",
+    "meaning": "chức năng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "identify",
+    "phonetic": "",
+    "meaning": "xác minh",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "income",
+    "phonetic": "",
+    "meaning": "lợi tức, thu nhập",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "indicate",
+    "phonetic": "",
+    "meaning": "chỉ, cho biết; biếu thị, trình bày ngắn gọn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "individual",
+    "phonetic": "",
+    "meaning": "cá nhân",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "interpret",
+    "phonetic": "",
+    "meaning": "giải thích",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "involve",
+    "phonetic": "",
+    "meaning": "bao gồm, bao hàm; thu hút, dồn tâm trí",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "issue",
+    "phonetic": "",
+    "meaning": "lỗi ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "labour",
+    "phonetic": "",
+    "meaning": "lao động; công việc",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "legal",
+    "phonetic": "",
+    "meaning": "Pháp lý",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "legislate",
+    "phonetic": "",
+    "meaning": "lập pháp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "major",
+    "phonetic": "",
+    "meaning": "lớn, nhiều hơn, trọng đại, chủ yếu",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "method",
+    "phonetic": "",
+    "meaning": "phương pháp, cách thức",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "occur",
+    "phonetic": "",
+    "meaning": "xảy ra, xảy đến, xuất hiện",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "percent",
+    "phonetic": "",
+    "meaning": "phần trăm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "period",
+    "phonetic": "",
+    "meaning": "giai đoạn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "policy",
+    "phonetic": "",
+    "meaning": "Khảo sát về các quy định và chính sách đang áp dụng trong Nhà trường",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "principle",
+    "phonetic": "",
+    "meaning": "cơ bản, chủ yếu; nguyên lý, nguyên tắc",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "proceed",
+    "phonetic": "",
+    "meaning": "tiến lên, tiếp diễn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "process",
+    "phonetic": "",
+    "meaning": "Quy trình sản xuất",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "require",
+    "phonetic": "",
+    "meaning": "đỏi hỏi, yêu cầu, quy định",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "research",
+    "phonetic": "",
+    "meaning": "tìm kiếm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "respond",
+    "phonetic": "",
+    "meaning": "hưởng ứng, phản ứng lại, trả lời",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "role",
+    "phonetic": "",
+    "meaning": "vai trò",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "section",
+    "phonetic": "",
+    "meaning": "Mặt cắt",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "sector",
+    "phonetic": "",
+    "meaning": "khu vực, lĩnh vực",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "significant",
+    "phonetic": "",
+    "meaning": "đáng kể",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "similar",
+    "phonetic": "",
+    "meaning": "tương tự như",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "source",
+    "phonetic": "",
+    "meaning": "source",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "specific",
+    "phonetic": "",
+    "meaning": "đặc hiệu",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "structure",
+    "phonetic": "",
+    "meaning": "kết cấu, cấu trúc",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "theory",
+    "phonetic": "",
+    "meaning": "lý thuyết, học thuyết",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "vary",
+    "phonetic": "",
+    "meaning": "thay đồi, biến đồi",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "achieve",
+    "phonetic": "",
+    "meaning": "đạt được",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "acquire",
+    "phonetic": "",
+    "meaning": "đạt được",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "administrate",
+    "phonetic": "",
+    "meaning": "KHỐI QUẢN LÝ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "affect",
+    "phonetic": "",
+    "meaning": "làm ảnh hưởng, tác động đến",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "appropriate",
+    "phonetic": "",
+    "meaning": "thích hợp, thích đáng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "aspect",
+    "phonetic": "",
+    "meaning": "vẻ bể ngoài, diện mạo",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "assist",
+    "phonetic": "",
+    "meaning": "giúp đỡ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "category",
+    "phonetic": "",
+    "meaning": "<g id=\"0\">hạng</g><g id=\"1\"><br/></g><g id=\"3\">mục</g>",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "chapter",
+    "phonetic": "",
+    "meaning": "chương (sách)",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "commission",
+    "phonetic": "",
+    "meaning": "commission",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "community",
+    "phonetic": "",
+    "meaning": "community",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "complex",
+    "phonetic": "",
+    "meaning": "phức tạp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "compute",
+    "phonetic": "",
+    "meaning": "tính toán",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "conclude",
+    "phonetic": "",
+    "meaning": "kết luận, chấm dứt (công việc)",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "conduct",
+    "phonetic": "",
+    "meaning": "hạnh kiểm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "consequent",
+    "phonetic": "",
+    "meaning": "hậu thức",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "construct",
+    "phonetic": "",
+    "meaning": "xây dựng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "consume",
+    "phonetic": "",
+    "meaning": "tiêu thụ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "credit",
+    "phonetic": "",
+    "meaning": "tín dụng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "culture",
+    "phonetic": "",
+    "meaning": "văn hóa",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "design",
+    "phonetic": "",
+    "meaning": "thiết kế",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "distinct",
+    "phonetic": "",
+    "meaning": "riêng biệt",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "element",
+    "phonetic": "",
+    "meaning": "nguyên tố",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "equate",
+    "phonetic": "",
+    "meaning": "tương đương",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "evaluate",
+    "phonetic": "",
+    "meaning": "đánh giá",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "feature",
+    "phonetic": "",
+    "meaning": "đặc trưng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "final",
+    "phonetic": "",
+    "meaning": "cuối cùng, cuộc đấu chung kết",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "focus",
+    "phonetic": "",
+    "meaning": "Tập trung",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "impact",
+    "phonetic": "",
+    "meaning": "sự va chạm, tác động, ảnh hưởng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "injure",
+    "phonetic": "",
+    "meaning": "làm tổn thương, xúc phạm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "institute",
+    "phonetic": "",
+    "meaning": "viện, học viện",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "invest",
+    "phonetic": "",
+    "meaning": "đầu tư",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "item",
+    "phonetic": "",
+    "meaning": "Sản phẩm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "journal",
+    "phonetic": "",
+    "meaning": "bút toán",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "maintain",
+    "phonetic": "",
+    "meaning": "giữ gìn, duy trì, bảo vệ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "normal",
+    "phonetic": "",
+    "meaning": "bình thường",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "obtain",
+    "phonetic": "",
+    "meaning": "đạt được, giành được",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "participate",
+    "phonetic": "",
+    "meaning": "tham gia",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "perceive",
+    "phonetic": "",
+    "meaning": "nhận thức",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "positive",
+    "phonetic": "",
+    "meaning": "dương",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "potential",
+    "phonetic": "",
+    "meaning": "tiềm năng; khả năng, tiềm lực",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "previous",
+    "phonetic": "",
+    "meaning": "previous",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "primary",
+    "phonetic": "",
+    "meaning": "chính",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "purchase",
+    "phonetic": "",
+    "meaning": "mua",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "range",
+    "phonetic": "",
+    "meaning": "vận hành",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "region",
+    "phonetic": "",
+    "meaning": "vùng, miền",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "regulate",
+    "phonetic": "",
+    "meaning": "điều tiết",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "relevant",
+    "phonetic": "",
+    "meaning": "thích hợp, có liên quan",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "reside",
+    "phonetic": "",
+    "meaning": "Cư trú",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "resource",
+    "phonetic": "",
+    "meaning": "tài nguyên; kế sách, thủ đoạn ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "restrict",
+    "phonetic": "",
+    "meaning": "hạn chế, giới hạn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "secure",
+    "phonetic": "",
+    "meaning": "chắc chắn, bảo mật ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "seek",
+    "phonetic": "",
+    "meaning": "tìm kiếm, theo đuổi&#10;\"She seeks new opportunities in her career.\" (Cô ấy tìm kiếm cơ hội mới trong sự nghiệp của mình.)",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "select",
+    "phonetic": "",
+    "meaning": "chọn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "site",
+    "phonetic": "",
+    "meaning": "chỗ, vị trí",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "strategy",
+    "phonetic": "",
+    "meaning": "chiến lược",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "survey",
+    "phonetic": "",
+    "meaning": "khảo sát",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "text",
+    "phonetic": "",
+    "meaning": "văn bản",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "tradition",
+    "phonetic": "",
+    "meaning": "truyền thống",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "transfer",
+    "phonetic": "",
+    "meaning": ".",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "abandon",
+    "phonetic": "",
+    "meaning": "từ bỏ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "abstract",
+    "phonetic": "",
+    "meaning": "Trìu tượng;khó hiểu;lý thuyết;thực tế;bản tóm tắt;ý niệm trừu tượng;tác phẩm nghệ thuật trừu tượng;trừu tượng hóa;làm đãng trí;rút ra;chiết ra;tách ra;lấy trộm;ăn cắp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "accumulate",
+    "phonetic": "",
+    "meaning": "tích lũy",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "accurate",
+    "phonetic": "",
+    "meaning": "chính xác, đúng đắn&#10;",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "acknowledge",
+    "phonetic": "",
+    "meaning": "công nhận",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "adapt",
+    "phonetic": "",
+    "meaning": "lắp vào",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "adequate",
+    "phonetic": "",
+    "meaning": "đầy đủ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "adjacent",
+    "phonetic": "",
+    "meaning": "kề",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "advocate",
+    "phonetic": "",
+    "meaning": "biện hộ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "aggregate",
+    "phonetic": "",
+    "meaning": "tổng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "allocate",
+    "phonetic": "",
+    "meaning": "trợ cấp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "alter",
+    "phonetic": "",
+    "meaning": "thay đồi, biến đồi, sửa đồi",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "ambiguous",
+    "phonetic": "",
+    "meaning": "-Mơ hồ à?",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "anticipate",
+    "phonetic": "",
+    "meaning": "thấy trước, chặn trước, lường trước",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "apparent",
+    "phonetic": "",
+    "meaning": "rõ ràng, rành mạch",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "arbitrary",
+    "phonetic": "",
+    "meaning": "tùy ý",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "articulate",
+    "phonetic": "",
+    "meaning": "Articulate",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "attribute",
+    "phonetic": "",
+    "meaning": "thuộc tính",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "bias",
+    "phonetic": "",
+    "meaning": "Thiên kiến",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "capacity",
+    "phonetic": "",
+    "meaning": "năng lực, khả năng tiếp thu, năng suất",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "challenge",
+    "phonetic": "",
+    "meaning": "thách thức",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "circumstance",
+    "phonetic": "",
+    "meaning": "hoàn cảnh, trường hợp, tình huống",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "clarify",
+    "phonetic": "",
+    "meaning": "làm rõ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "collaborate",
+    "phonetic": "",
+    "meaning": "Cộng tác",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "compensate",
+    "phonetic": "",
+    "meaning": "bù lại",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "complement",
+    "phonetic": "",
+    "meaning": "số người biên chế quy định (trên tàu)",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "comprehensive",
+    "phonetic": "",
+    "meaning": "toàn diện",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "concentrate",
+    "phonetic": "",
+    "meaning": "tập trung",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "confirm",
+    "phonetic": "",
+    "meaning": "xác nhận, chứng thực",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "conflict",
+    "phonetic": "",
+    "meaning": "xung đột, va chạm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "consequence",
+    "phonetic": "",
+    "meaning": "hậu quả",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "considerable",
+    "phonetic": "",
+    "meaning": "đáng kế",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "constitute",
+    "phonetic": "",
+    "meaning": "cấu tạo",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "controversy",
+    "phonetic": "",
+    "meaning": "tranh cãi",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "conventional",
+    "phonetic": "",
+    "meaning": "quy ước",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "coordinate",
+    "phonetic": "",
+    "meaning": "tọa độ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "correspond",
+    "phonetic": "",
+    "meaning": "trao đổi thư từ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "criteria",
+    "phonetic": "",
+    "meaning": "criteria",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "crucial",
+    "phonetic": "",
+    "meaning": "quyết định, cốt yếu",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "debate",
+    "phonetic": "",
+    "meaning": "tranh luận",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "decline",
+    "phonetic": "",
+    "meaning": "suy sụp, suy tàn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "deduce",
+    "phonetic": "",
+    "meaning": "suy luận",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "demonstrate",
+    "phonetic": "/ˈdɛmənstɹeɪt/",
+    "meaning": "chứng minh, giải thích",
+    "definition_en": "To show how to use (something).",
+    "example": "Can you demonstrate the new tools for us?",
+    "example_vi": "Bạn có thể giới thiệu các công cụ mới cho chúng tôi không?",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "depict",
+    "phonetic": "",
+    "meaning": "miêu tả",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "detect",
+    "phonetic": "/dɪˈtɛkt/",
+    "meaning": "phát hiện",
+    "definition_en": "To discover or find by careful search, examination, or probing",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "determine",
+    "phonetic": "",
+    "meaning": "xác định, định rõ; quyết định",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "deviate",
+    "phonetic": "",
+    "meaning": "đi chệch hướng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "dimension",
+    "phonetic": "/daɪˈmɛnʃən/",
+    "meaning": "kích thước",
+    "definition_en": "A single aspect of a given thing.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "diminish",
+    "phonetic": "/dɪˈmɪnɪʃ/",
+    "meaning": "giảm dần",
+    "definition_en": "To make smaller.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "discriminate",
+    "phonetic": "/dɪsˈkɹɪmɪneɪt/",
+    "meaning": "phân biệt khác nhau, tách ra",
+    "definition_en": "To make distinctions.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "display",
+    "phonetic": "",
+    "meaning": "Màn hình",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "diverse",
+    "phonetic": "",
+    "meaning": "phong phú",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "dominate",
+    "phonetic": "",
+    "meaning": "chiếm ưu thế, có ảnh hưởng, chi phối; kiểm chế",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "dynamic",
+    "phonetic": "",
+    "meaning": "động",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "eliminate",
+    "phonetic": "/ɪˈlɪməneɪt/",
+    "meaning": "loại",
+    "definition_en": "To completely remove, get rid of, put an end to.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "emerge",
+    "phonetic": "",
+    "meaning": "nổi lên, hiện ra",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "emphasise",
+    "phonetic": "",
+    "meaning": "Nhấn mạnh",
+    "definition_en": "To stress, give emphasis or extra weight to (something).",
+    "example": "His two-fingered gesture emphasized what he had told his boss to do with his job.",
+    "example_vi": "Cử chỉ hai ngón tay của anh ta nhấn mạnh những gì anh ta đã nói với ông chủ của mình để làm với công việc của mình.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "enable",
+    "phonetic": "/ɪˈneɪbəl/",
+    "meaning": "kích hoạt",
+    "definition_en": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "enhance",
+    "phonetic": "",
+    "meaning": "cải tiến",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "enormous",
+    "phonetic": "",
+    "meaning": "to lớn, khổng lồ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "ensure",
+    "phonetic": "",
+    "meaning": "bảo đảm, chắc chắn",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "equivalent",
+    "phonetic": "/ɪˈkwɪvələnt/",
+    "meaning": "tương đương",
+    "definition_en": "Anything that is virtually equal to something else, or has the same value, force, etc.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "evolve",
+    "phonetic": "/ɪˈvɒlv/",
+    "meaning": "tiến hóa",
+    "definition_en": "To move in regular procession through a system.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "exceed",
+    "phonetic": "/ɪkˈsiːd/",
+    "meaning": "quá",
+    "definition_en": "To be larger, greater than (something).",
+    "example": "The company's 2005 revenue exceeds that of 2004.",
+    "example_vi": "Doanh thu năm 2005 của công ty vượt quá năm 2004.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "exclude",
+    "phonetic": "/ɪksˈkluːd/",
+    "meaning": "ngăn chặn, loại trừ",
+    "definition_en": "To bar (someone) from entering; to keep out.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "exhibit",
+    "phonetic": "/ɛɡ-/",
+    "meaning": "trưng bày, triển lãm; vật trưng bày",
+    "definition_en": "An instance of exhibiting.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "expand",
+    "phonetic": "/ɛkˈspænd/",
+    "meaning": "mở rộng, phát triển, nở, giãn ra",
+    "definition_en": "To change (something) from a smaller form and/or size to a larger one; to spread out or lay open.",
+    "example": "You can expand this compact umbrella to cover a large table.",
+    "example_vi": "Bạn có thể mở rộng chiếc ô nhỏ gọn này để che một cái bàn lớn.",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "explicit",
+    "phonetic": "/ɪkˈsplɪsɪt/",
+    "meaning": "rõ ràng",
+    "definition_en": "Very specific, clear, or detailed.",
+    "example": "I gave explicit instructions for him to stay here, but he followed me, anyway.",
+    "example_vi": "Tôi đã đưa ra hướng dẫn rõ ràng để anh ấy ở lại đây, nhưng dù sao anh ấy cũng đi theo tôi.",
+    "part_of_speech": "adjective",
+    "category": "IELTS"
+  },
+  {
+    "word": "exploit",
+    "phonetic": "",
+    "meaning": "khai thác",
+    "definition_en": "A heroic or extraordinary deed.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "noun",
+    "category": "IELTS"
+  },
+  {
+    "word": "expose",
+    "phonetic": "/ɪkˈspəʊz/",
+    "meaning": "trưng bày, phơi bày",
+    "definition_en": "To reveal, uncover, make visible, bring to light, introduce to.",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "verb",
+    "category": "IELTS"
+  },
+  {
+    "word": "extensive",
+    "phonetic": "/ɛksˈtɛn.sɪv/",
+    "meaning": "rộng rãi, bao quát",
+    "definition_en": "Having a great extent; covering a large area; vast",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "adjective",
+    "category": "IELTS"
+  },
+  {
+    "word": "facilitate",
+    "phonetic": "",
+    "meaning": "Điều phối",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "flexible",
+    "phonetic": "",
+    "meaning": "linh hoạt",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "fluctuate",
+    "phonetic": "",
+    "meaning": "thay đổi bất thường",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "generate",
+    "phonetic": "",
+    "meaning": "tạo ra",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "global",
+    "phonetic": "",
+    "meaning": "toàn cầu",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "guarantee",
+    "phonetic": "",
+    "meaning": "bảo hành, bảo lãnh, người bảo lãnh; cam đoan, bảo đảm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "hypothesis",
+    "phonetic": "",
+    "meaning": "giả thuyết",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "illustrate",
+    "phonetic": "",
+    "meaning": "minh họa, làm rõ ý",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "implement",
+    "phonetic": "",
+    "meaning": "thực hiện",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "imply",
+    "phonetic": "",
+    "meaning": "ngụ ý, bao hàm",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "impose",
+    "phonetic": "",
+    "meaning": "áp đặt",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "incentive",
+    "phonetic": "",
+    "meaning": "gia tăng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "incorporate",
+    "phonetic": "",
+    "meaning": "kết hợp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "inevitable",
+    "phonetic": "",
+    "meaning": "không thể tránh được, chắc chắn xảy ra; vẫn thường thấy,",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "infrastructure",
+    "phonetic": "",
+    "meaning": "cơ sở hạ tầng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "inherent",
+    "phonetic": "",
+    "meaning": "vốn có",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "initiate",
+    "phonetic": "",
+    "meaning": "đề xướng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "innovate",
+    "phonetic": "",
+    "meaning": "Đổi mới",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "integrate",
+    "phonetic": "",
+    "meaning": "Comment",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "interact",
+    "phonetic": "",
+    "meaning": "tương tác",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "justify",
+    "phonetic": "",
+    "meaning": "căn đều,  lý lẽ, bằng chứng hoặc luận điểm để chứng minh sự đúng đắn hoặc sự hợp lý của một quyết định hoặc hành động.",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "manipulate",
+    "phonetic": "",
+    "meaning": "thao túng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "maximize",
+    "phonetic": "",
+    "meaning": "tối đa hóa",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "minimize",
+    "phonetic": "",
+    "meaning": "tối thiểu hóa",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "modify",
+    "phonetic": "",
+    "meaning": "điều chỉnh",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "monitor",
+    "phonetic": "",
+    "meaning": "màn hình",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "motivate",
+    "phonetic": "",
+    "meaning": "thúc đẩy khuyến khích",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "mutual",
+    "phonetic": "",
+    "meaning": "lẫn nhau, tương hỗ&#10;",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "negate",
+    "phonetic": "",
+    "meaning": "Âm Hóa",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "objective",
+    "phonetic": "",
+    "meaning": "khách quan",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "obvious",
+    "phonetic": "",
+    "meaning": "rõ ràng, rành mạch, hiển nhiên",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "offset",
+    "phonetic": "",
+    "meaning": "sự cân đối",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "ongoing",
+    "phonetic": "",
+    "meaning": "đang tiến hành",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "overlap",
+    "phonetic": "",
+    "meaning": "sự phủ chồng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "persist",
+    "phonetic": "",
+    "meaning": "kiên trì",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "phenomenon",
+    "phonetic": "",
+    "meaning": "phenomenon",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "predict",
+    "phonetic": "",
+    "meaning": "báo trước, tiên đoán, dự báo",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "predominant",
+    "phonetic": "",
+    "meaning": "Có nhiều khả năng, chiếm ưu thế hơn; dễ nhận thấy\nnhất, trội hơn hẳn, nổi bật",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "preliminary",
+    "phonetic": "",
+    "meaning": "SƠ BỘ ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "promote",
+    "phonetic": "",
+    "meaning": "thăng chức, thăng cấp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "proportion",
+    "phonetic": "",
+    "meaning": "cân xứng, cân đối",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "prospect",
+    "phonetic": "",
+    "meaning": "viễn cảnh; triển vọng, mong chờ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "pursue",
+    "phonetic": "",
+    "meaning": "đuổi theo, đuổi bắt",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "rational",
+    "phonetic": "",
+    "meaning": "dựa theo lý trí",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "reinforce",
+    "phonetic": "",
+    "meaning": "củng cố",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "reject",
+    "phonetic": "",
+    "meaning": "không chấp nhận, loại bỏ, bác bỏ, từ chối",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "rely",
+    "phonetic": "",
+    "meaning": "tin vào, tin cậy, tin tưởng vào",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "resolve",
+    "phonetic": "",
+    "meaning": "quyết định, kiên quyết ; giải quyết",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "retain",
+    "phonetic": "",
+    "meaning": "giữ lại, nhớ được",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "reveal",
+    "phonetic": "",
+    "meaning": "bộc lộ, biếu lộ, tiết lộ; phát hiện, khám phá",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "revise",
+    "phonetic": "",
+    "meaning": "đọc lại, xem lại, sửa lại, ôn lại",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "simulate",
+    "phonetic": "",
+    "meaning": "Mô Phỏng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "specify",
+    "phonetic": "",
+    "meaning": "chuyên môn hoá; chi tiết hoá; định rõ, ghi rõ",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "stabilize",
+    "phonetic": "",
+    "meaning": "ổn định",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "substitute",
+    "phonetic": "",
+    "meaning": " Các sản phẩm thay thế",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "sufficient",
+    "phonetic": "",
+    "meaning": "đủ, thích đáng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "summarize",
+    "phonetic": "",
+    "meaning": "tóm tắt",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "supplement",
+    "phonetic": "",
+    "meaning": "việc cung cấp",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "sustain",
+    "phonetic": "",
+    "meaning": "duy trì",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "terminate",
+    "phonetic": "",
+    "meaning": "kết thúc",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "transform",
+    "phonetic": "",
+    "meaning": "thay đổi",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "transmit",
+    "phonetic": "",
+    "meaning": "gửi",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "undermine",
+    "phonetic": "",
+    "meaning": "làm suy yếu",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "utilize",
+    "phonetic": "",
+    "meaning": "áp dụng",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "validate",
+    "phonetic": "",
+    "meaning": "xác nhận",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "verify",
+    "phonetic": "",
+    "meaning": "xác minh",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  },
+  {
+    "word": "widespread",
+    "phonetic": "",
+    "meaning": "phổ biến rộng rãi",
+    "definition_en": "",
+    "example": "",
+    "example_vi": "",
+    "part_of_speech": "",
+    "category": "IELTS"
+  }
+]

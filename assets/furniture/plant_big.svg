@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 100">
+  <!-- Pot -->
+  <path d="M20 75 L15 100 L55 100 L50 75 Z" fill="#8D6E63" stroke="#6D4C41" stroke-width="1.5"/>
+  <!-- Pot rim -->
+  <rect x="16" y="70" width="38" height="8" rx="4" fill="#A1887F" stroke="#6D4C41" stroke-width="1.5"/>
+  <!-- Pot highlight -->
+  <rect x="20" y="72" width="20" height="3" rx="2" fill="#BCAAA4" opacity="0.5"/>
+  <!-- Soil -->
+  <ellipse cx="35" cy="70" rx="17" ry="5" fill="#5D4037"/>
+  <!-- Main stem -->
+  <line x1="35" y1="68" x2="35" y2="30" stroke="#558B2F" stroke-width="3"/>
+  <!-- Branch left -->
+  <path d="M35 50 Q20 40 15 25" fill="none" stroke="#558B2F" stroke-width="2.5"/>
+  <!-- Branch right -->
+  <path d="M35 45 Q50 35 55 20" fill="none" stroke="#558B2F" stroke-width="2.5"/>
+  <!-- Branch left 2 -->
+  <path d="M35 38 Q22 30 18 15" fill="none" stroke="#558B2F" stroke-width="2"/>
+  <!-- Leaves - large -->
+  <ellipse cx="12" cy="22" rx="14" ry="9" fill="#66BB6A" transform="rotate(-30 12 22)"/>
+  <ellipse cx="57" cy="17" rx="14" ry="9" fill="#4CAF50" transform="rotate(25 57 17)"/>
+  <ellipse cx="15" cy="12" rx="12" ry="8" fill="#81C784" transform="rotate(-15 15 12)"/>
+  <!-- Leaves - medium -->
+  <ellipse cx="35" cy="28" rx="10" ry="7" fill="#66BB6A" transform="rotate(10 35 28)"/>
+  <ellipse cx="22" cy="38" rx="9" ry="6" fill="#4CAF50" transform="rotate(-20 22 38)"/>
+  <ellipse cx="48" cy="32" rx="9" ry="6" fill="#81C784" transform="rotate(15 48 32)"/>
+  <!-- Leaf veins -->
+  <line x1="12" y1="22" x2="5" y2="18" stroke="#388E3C" stroke-width="0.8" opacity="0.5"/>
+  <line x1="57" y1="17" x2="64" y2="13" stroke="#388E3C" stroke-width="0.8" opacity="0.5"/>
+</svg>

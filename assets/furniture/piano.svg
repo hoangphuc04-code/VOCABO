@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 85">
+  <!-- Piano body -->
+  <rect x="0" y="0" width="110" height="72" rx="6" fill="#1A1A1A" stroke="#000" stroke-width="2"/>
+  <!-- Piano top lid -->
+  <rect x="2" y="2" width="106" height="8" rx="4" fill="#2C2C2C"/>
+  <!-- Music stand -->
+  <rect x="20" y="8" width="70" height="5" rx="2" fill="#333"/>
+  <rect x="30" y="6" width="50" height="4" rx="2" fill="#3C3C3C"/>
+  <!-- Sheet music on stand -->
+  <rect x="32" y="3" width="46" height="6" rx="1" fill="#F5F5F5" opacity="0.9"/>
+  <line x1="35" y1="5" x2="75" y2="5" stroke="#9E9E9E" stroke-width="0.5"/>
+  <line x1="35" y1="7" x2="75" y2="7" stroke="#9E9E9E" stroke-width="0.5"/>
+  <!-- Keys area background -->
+  <rect x="4" y="42" width="102" height="26" rx="3" fill="#2C2C2C"/>
+  <!-- White keys (7 visible) -->
+  <rect x="6" y="44" width="13" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <rect x="20" y="44" width="13" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <rect x="34" y="44" width="13" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <rect x="48" y="44" width="13" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <rect x="62" y="44" width="13" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <rect x="76" y="44" width="13" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <rect x="90" y="44" width="14" height="22" rx="2" fill="white" stroke="#E0E0E0" stroke-width="0.5"/>
+  <!-- Black keys -->
+  <rect x="16" y="44" width="8" height="14" rx="2" fill="#1A1A1A"/>
+  <rect x="30" y="44" width="8" height="14" rx="2" fill="#1A1A1A"/>
+  <rect x="58" y="44" width="8" height="14" rx="2" fill="#1A1A1A"/>
+  <rect x="72" y="44" width="8" height="14" rx="2" fill="#1A1A1A"/>
+  <rect x="86" y="44" width="8" height="14" rx="2" fill="#1A1A1A"/>
+  <!-- Piano body detail -->
+  <rect x="4" y="16" width="102" height="26" rx="2" fill="#222"/>
+  <!-- Decorative panel lines -->
+  <line x1="4" y1="28" x2="106" y2="28" stroke="#333" stroke-width="1"/>
+  <!-- Pedals -->
+  <rect x="38" y="72" width="10" height="8" rx="2" fill="#C8A870"/>
+  <rect x="52" y="72" width="10" height="8" rx="2" fill="#C8A870"/>
+  <rect x="66" y="72" width="10" height="8" rx="2" fill="#C8A870"/>
+  <!-- Legs -->
+  <rect x="6" y="70" width="10" height="14" rx="3" fill="#111"/>
+  <rect x="94" y="70" width="10" height="14" rx="3" fill="#111"/>
+</svg>

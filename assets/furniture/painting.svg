@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 65" style="shape-rendering:geometricPrecision">
+  <!-- Frame outer -->
+  <rect x="0" y="0" width="80" height="65" rx="4" fill="#C8A870" stroke="#8B6914" stroke-width="3"/>
+  <!-- Frame inner bevel -->
+  <rect x="5" y="5" width="70" height="55" rx="2" fill="#D4B880" stroke="#8B6914" stroke-width="1.5"/>
+  <!-- Canvas -->
+  <rect x="8" y="8" width="64" height="49" rx="1" fill="#F5F0E8"/>
+  <!-- Painting content - mountain landscape (Adorable Home style) -->
+  <!-- Sky -->
+  <rect x="8" y="8" width="64" height="28" fill="#87CEEB"/>
+  <!-- Clouds -->
+  <ellipse cx="25" cy="18" rx="10" ry="5" fill="white" opacity="0.9"/>
+  <ellipse cx="32" cy="16" rx="8" ry="4" fill="white" opacity="0.9"/>
+  <ellipse cx="55" cy="20" rx="8" ry="4" fill="white" opacity="0.8"/>
+  <!-- Sun -->
+  <circle cx="62" cy="14" r="6" fill="#FFD700"/>
+  <!-- Mountains -->
+  <path d="M8 36 L25 16 L42 36 Z" fill="#78909C"/>
+  <path d="M30 36 L50 18 L70 36 Z" fill="#607D8B"/>
+  <!-- Snow caps -->
+  <path d="M25 16 L30 24 L20 24 Z" fill="white" opacity="0.9"/>
+  <path d="M50 18 L55 26 L45 26 Z" fill="white" opacity="0.9"/>
+  <!-- Ground -->
+  <rect x="8" y="36" width="64" height="21" fill="#8BC34A"/>
+  <!-- Trees -->
+  <rect x="14" y="30" width="4" height="12" fill="#5D3A1A"/>
+  <ellipse cx="16" cy="28" rx="7" ry="9" fill="#388E3C"/>
+  <rect x="60" y="28" width="4" height="14" fill="#5D3A1A"/>
+  <ellipse cx="62" cy="26" rx="7" ry="9" fill="#2E7D32"/>
+  <!-- Hanging wire -->
+  <line x1="30" y1="0" x2="40" y2="0" stroke="#8B6914" stroke-width="2"/>
+  <line x1="35" y1="0" x2="35" y2="-5" stroke="#8B6914" stroke-width="1.5"/>
+</svg>

@@ -1,0 +1,246 @@
+rules_version = '2';
+
+// ============================================================
+// VOCABO — Firestore Security Rules
+// ============================================================
+// Deploy: firebase deploy --only firestore:rules
+// Test:   firebase emulators:start
+// ============================================================
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ── Helper functions ──────────────────────────────────
+
+    /// Kiểm tra user đã đăng nhập
+    function isAuth() {
+      return request.auth != null;
+    }
+
+    /// Kiểm tra đúng chủ sở hữu
+    function isOwner(uid) {
+      return isAuth() && request.auth.uid == uid;
+    }
+
+    /// Kiểm tra user là admin
+    function isAdmin() {
+      return isAuth() &&
+        exists(/databases/$(database)/documents/users/$(request.auth.uid)) &&
+        get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    /// Kiểm tra field uid trong document khớp với người dùng hiện tại
+    function ownsDoc() {
+      return isAuth() && resource.data.uid == request.auth.uid;
+    }
+
+    /// Kiểm tra field uid trong request data khớp với người dùng hiện tại
+    function writingOwnDoc() {
+      return isAuth() && request.resource.data.uid == request.auth.uid;
+    }
+
+    /// Giới hạn kích thước string để tránh abuse
+    function validString(field, maxLen) {
+      return request.resource.data[field] is string &&
+             request.resource.data[field].size() <= maxLen;
+    }
+
+    // ── Users ─────────────────────────────────────────────
+    match /users/{uid} {
+      // Đọc: chỉ chủ sở hữu hoặc admin
+      allow read: if isOwner(uid) || isAdmin();
+
+      // Tạo: chỉ chính mình, uid phải khớp
+      allow create: if isOwner(uid) &&
+                       request.resource.data.uid == uid;
+
+      // Cập nhật: chỉ chủ sở hữu, không được đổi uid/role
+      allow update: if isOwner(uid) &&
+                       request.resource.data.uid == uid &&
+                       !('role' in request.resource.data.diff(resource.data).affectedKeys());
+
+      // Xóa: chỉ admin
+      allow delete: if isAdmin();
+
+      // Subcollection: từ đã học
+      match /learned_words/{wordId} {
+        allow read, write: if isOwner(uid);
+      }
+    }
+
+    // ── Topics (bộ flashcard) ─────────────────────────────
+    match /topics/{topicId} {
+      // Đọc: preset topics (uid == null) hoặc topic của mình
+      allow read: if isAuth() &&
+                     (resource.data.uid == null ||
+                      resource.data.uid == '' ||
+                      resource.data.uid == request.auth.uid ||
+                      resource.data.get('isPreset', false) == true);
+
+      // Tạo: chỉ cho chính mình, uid phải khớp
+      allow create: if isAuth() &&
+                       request.resource.data.uid == request.auth.uid &&
+                       validString('name', 100);
+
+      // Cập nhật/xóa: chỉ chủ sở hữu
+      allow update, delete: if isAuth() &&
+                                resource.data.uid == request.auth.uid;
+
+      // Subcollection: từ vựng trong topic
+      match /words/{wordId} {
+        allow read: if isAuth();
+        allow write: if isAuth() &&
+                        get(/databases/$(database)/documents/topics/$(topicId)).data.uid == request.auth.uid;
+      }
+    }
+
+    // ── Vocabulary Progress (SRS) ─────────────────────────
+    match /vocabulary_progress/{docId} {
+      allow read: if isAuth() && ownsDoc();
+      allow create: if isAuth() && writingOwnDoc();
+      allow update: if isAuth() && ownsDoc() &&
+                       request.resource.data.uid == resource.data.uid; // uid không đổi
+      allow delete: if isAuth() && ownsDoc();
+    }
+
+    // ── Study Sessions ────────────────────────────────────
+    match /study_sessions/{sessionId} {
+      allow read: if isAuth() && ownsDoc();
+      allow create: if isAuth() && writingOwnDoc();
+      allow update: if isAuth() && ownsDoc();
+      allow delete: if false; // không cho xóa lịch sử
+    }
+
+    // ── Events (Calendar) ─────────────────────────────────
+    match /events/{eventId} {
+      allow read: if isAuth() && ownsDoc();
+      allow create: if isAuth() && writingOwnDoc() &&
+                       validString('title', 200);
+      allow update: if isAuth() && ownsDoc();
+      allow delete: if isAuth() && ownsDoc();
+    }
+
+    // ── Study Plans ───────────────────────────────────────
+    match /study_plans/{planId} {
+      allow read: if isAuth() && ownsDoc();
+      allow create: if isAuth() && writingOwnDoc();
+      allow update: if isAuth() && ownsDoc();
+      allow delete: if isAuth() && ownsDoc();
+    }
+
+    // ── Houses ────────────────────────────────────────────
+    match /houses/{uid} {
+      // Đọc: chủ sở hữu hoặc bạn bè (để thăm nhà)
+      allow read: if isAuth();
+
+      // Ghi: chỉ chủ sở hữu
+      allow create, update: if isOwner(uid);
+      allow delete: if isAdmin();
+    }
+
+    // ── Farms ─────────────────────────────────────────────
+    match /farms/{uid} {
+      allow read, write: if isOwner(uid);
+    }
+
+    // ── Battle Rooms ──────────────────────────────────────
+    match /battle_rooms/{roomId} {
+      // Đọc: cả 2 người chơi trong phòng
+      allow read: if isAuth() && (
+        resource.data.player1.uid == request.auth.uid ||
+        resource.data.player2.uid == request.auth.uid ||
+        resource.data.status == 'waiting' // để tìm phòng
+      );
+
+      // Tạo: user đã đăng nhập, phải là player1
+      allow create: if isAuth() &&
+                       request.resource.data.player1.uid == request.auth.uid;
+
+      // Cập nhật: chỉ người chơi trong phòng
+      allow update: if isAuth() && (
+        resource.data.player1.uid == request.auth.uid ||
+        resource.data.player2.uid == request.auth.uid ||
+        // Cho phép join phòng (player2 còn trống)
+        (resource.data.player2.uid == '' &&
+         request.resource.data.player2.uid == request.auth.uid)
+      );
+
+      // Xóa: chỉ player1 khi phòng đang waiting
+      allow delete: if isAuth() &&
+                       resource.data.player1.uid == request.auth.uid &&
+                       resource.data.status == 'waiting';
+    }
+
+    // ── Game Progress ─────────────────────────────────────
+    match /game_progress/{docId} {
+      allow read: if isAuth() && ownsDoc();
+      allow create: if isAuth() && writingOwnDoc();
+      allow update: if isAuth() && ownsDoc();
+      allow delete: if false;
+    }
+
+    // ── Game Scores (Leaderboard) ─────────────────────────
+    match /game_scores/{docId} {
+      // Đọc: tất cả user đã đăng nhập (leaderboard công khai)
+      allow read: if isAuth();
+      allow create: if isAuth() && writingOwnDoc();
+      allow update: if isAuth() && ownsDoc();
+      allow delete: if false;
+    }
+
+    // ── Notifications ─────────────────────────────────────
+    match /notifications/{notifId} {
+      // Đọc: tất cả user đã đăng nhập (thông báo từ admin)
+      allow read: if isAuth();
+      // Ghi: chỉ admin
+      allow write: if isAdmin();
+    }
+
+    // ── IELTS Questions ───────────────────────────────────
+    match /ielts_questions/{questionId} {
+      // Đọc: tất cả user đã đăng nhập
+      allow read: if isAuth();
+      // Ghi: chỉ admin
+      allow write: if isAdmin();
+    }
+
+    // ── Chat Messages ─────────────────────────────────────
+    match /chats/{chatId} {
+      // Đọc/ghi: chỉ người tham gia chat
+      allow read, write: if isAuth() &&
+                            request.auth.uid in resource.data.participants;
+
+      match /messages/{messageId} {
+        allow read: if isAuth() &&
+                       request.auth.uid in
+                       get(/databases/$(database)/documents/chats/$(chatId)).data.participants;
+        allow create: if isAuth() &&
+                         request.resource.data.senderId == request.auth.uid &&
+                         request.auth.uid in
+                         get(/databases/$(database)/documents/chats/$(chatId)).data.participants;
+        allow update, delete: if false; // không cho sửa/xóa tin nhắn
+      }
+    }
+
+    // ── Friend Requests ───────────────────────────────────
+    match /friend_requests/{requestId} {
+      allow read: if isAuth() && (
+        resource.data.fromUid == request.auth.uid ||
+        resource.data.toUid == request.auth.uid
+      );
+      allow create: if isAuth() &&
+                       request.resource.data.fromUid == request.auth.uid;
+      allow update: if isAuth() &&
+                       resource.data.toUid == request.auth.uid; // chỉ người nhận mới accept/reject
+      allow delete: if isAuth() && (
+        resource.data.fromUid == request.auth.uid ||
+        resource.data.toUid == request.auth.uid
+      );
+    }
+
+    // ── Deny all other access ─────────────────────────────
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}
